@@ -18,12 +18,11 @@
 - **Quickstart**:
   - Run 1 command and download/install appropriate extensions, demo model, and start CLI chatbot
   - Model acquisition guide
-
   - Conceptual overview and tutorial
 
 ### sqlite-vector
 - **Quickstart**:
-  - Run 1 command to download/setup, start cli to run semantic queries against demo database
+  - Run 1 command to download/setup and spin up cli to run semantic queries against demo database
   - Hybrid FTS/metadata/semantic search implementation
   - Conceptual overview and tutorial
 
