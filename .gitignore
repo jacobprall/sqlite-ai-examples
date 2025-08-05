@@ -1,4 +1,6 @@
 .cursor
 .kiro
 __pycache__
+.pytest_cache
 venv
+todo.md
