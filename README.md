@@ -4,7 +4,7 @@
 ## Sprint 1 (Week of 8.4)
 
 ### sqlite-sync
-- **Quickstart**: 
+- **Quickstart Repo**: 
   - Run 1 command to download the appropriate extension, install, setup dbs, and spin up docker containers. 
   - Write to one db via cli and see the change reflected in the other terminal.
   - Simple SyncClient implementation
@@ -21,13 +21,13 @@
   - Conceptual overview and tutorial
 
 ### sqlite-vector
-- **Quickstart**:
+- **Quickstart Repo**:
   - Run 1 command to download/setup and spin up cli to run semantic queries against demo database
   - Hybrid FTS/metadata/semantic search implementation
   - Conceptual overview and tutorial
 
 ## Sprint 2 (Week of 8.11)
-- **Local-first Chatbot**: "Build a local-first AI chatbot in 10 minutes"
+- **Local-first Chatbot Tutorial**: "Build a local-first AI chatbot in 10 minutes"
   - Architecture overview - Expand on quickstarts and show how components can work together
   - Core implementations: SyncClient, VectorMemory, and AIService
     - Embedding generation + Vector Preprocessing
