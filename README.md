@@ -15,7 +15,7 @@
   - README Error: Line 45 says "SQLite Sync" instead of "SQLite-AI"
   - Missing Model Source: No guidance on where to get GGUF models
   - No Error Handling: Examples don't show what happens when things fail
-- **Quickstart**:
+- **Quickstart Repo**:
   - Run 1 command and download/install appropriate extensions, demo model, and start CLI chatbot
   - Model acquisition guide
   - Conceptual overview and tutorial
